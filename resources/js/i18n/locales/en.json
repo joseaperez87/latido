@@ -1,0 +1,43 @@
+{
+    "welcome": "Welcome",
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register",
+    "create_account": "Create new account",
+    "email_address" : "Email address",
+    "name" : "First Name",
+    "lastname" : "Lastname",
+    "username" : "Username",
+    "email" : "Email",
+    "password": "Password",
+    "confirm_p" : "Confirm password",
+    "terms_conditions": "I accept terms and conditions",
+    "remember": "Remember me",
+    "forgot_p": "Forgot password",
+    "OR": "OR",
+    "home" : "Home",
+    "recover" : "Recover",
+    "resendcode" : "Recover your code",
+    "resend_it" : "Resent it",
+    "recover_p" : "Recover Password",
+    "new_account_text" : "If you don't have an account",
+    "click-to-login" : "Click here to Login",
+    "validations" : {
+        "required" : "This field is required",
+        "incorrect_email" : "This is an invalid email",
+        "alphanum" : "This field allows only letters and numbers",
+        "alpha" : "This field allows only letters",
+        "lspaces" : "This field allows only letters and spaces",
+        "maxLength" : "The field cannot contain more than {max} characters",
+        "minLength" : "The field cannot contain less than {min} characters",
+        "email" : "The email is incorrect",
+        "pnotmatch" : "The passwords don't match",
+        "email_busy" : "This email is not available",
+        "username_busy" : "This username is not available",
+        "password_requirements" : "The password requires an uppercase, lowercase, number and special character"
+    },
+    "register_success" : {
+        "head" : "Registration Success",
+        "text" : "You have successfully registered in our site. We have sent an email with your activation link, it will be active for the next 24 hours."
+    }
+}

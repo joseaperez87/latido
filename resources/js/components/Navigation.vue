@@ -1,10 +1,10 @@
 <template>
-    <router-view></router-view>
+    Navbar
 </template>
 
 <script>
 export default {
-    name: "App"
+    name: "Navigation"
 }
 </script>
 
